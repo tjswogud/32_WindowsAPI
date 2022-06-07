@@ -15,7 +15,7 @@ Tank::Tank()
 
 	blackBrush = CreateSolidBrush(COLOR_BLACK);
 	  redBrush = CreateSolidBrush(COLOR_RED);
-	  //仃之丑冗仃之槭之槭之模
+	  
 }
 
 Tank::~Tank()
