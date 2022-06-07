@@ -15,7 +15,7 @@ Tank::Tank()
 
 	blackBrush = CreateSolidBrush(COLOR_BLACK);
 	  redBrush = CreateSolidBrush(COLOR_RED);
-
+	  //d
 }
 
 Tank::~Tank()
